@@ -68,6 +68,7 @@
                         <configuration>
                             <rules>
                                 <rule>
+                                    <element>METHOD</element>
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
